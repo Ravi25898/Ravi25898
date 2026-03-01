@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
+This is my GitHub profile README.
 <!--
 **Ravi25898/Ravi25898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
